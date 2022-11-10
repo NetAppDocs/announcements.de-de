@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: ontap-select.html 
+keywords: announcements, documentation, ontap select 
+summary: Kürzlich haben wir Inhalte für ONTAP Select auf unserer GitHub-Authoring-Plattform hinzugefügt. 
+last_modified: 22-Jan-2020 
+---
+= Dokumente für ONTAP Select
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Kürzlich haben wir Inhalte für ONTAP Select hinzugefügt. Die Inhalte können bei der Ausführung von ONTAP Select auf VMware ESXi helfen. Sie erhalten eine Hypervisor-unabhängige Dokumentation über DIE ONTAP Select Deploy REST API.
+
+Wir freuen uns über diese Veränderung, weil das Content-Authoring-Team Inhalte aus mehreren Quellen in einer durchsuchbaren Online-Bibliothek zusammenkombinierte.
+
+Tragen Sie diesen Beitrag in der neuen Dokumentation für ONTAP Select bei. Sie können Bearbeiten, eine Änderung anfordern oder sogar Feedback senden. Wechseln Sie zum https://docs.netapp.com/us-en/ontap-select/index.html["ONTAP Select-Dokumentation"] Und legen Sie los.
+
+image:ontap-select.gif[""]

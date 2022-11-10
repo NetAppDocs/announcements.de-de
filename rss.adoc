@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: rss.html 
+keywords: announcements, rss feeds 
+summary: 'Wir haben jeder Seite „What"s New“ in den Dokumenten eine RSS-Schaltfläche hinzugefügt, damit Sie in Ihrem bevorzugten RSS-Feed-Reader Content-Updates erhalten können. Diese Feeds können Sie auf dem Laufenden halten über die neuen Funktionen und Erweiterungen, die in NetApp Produkten und Services eingeführt wurden.' 
+last_modified: 21-Mar-2019 
+---
+= RSS-Feed auf was neue Seiten ist
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Wir haben jeder Seite „What's New“ in den Dokumenten eine RSS-Schaltfläche hinzugefügt, damit Sie in Ihrem bevorzugten RSS-Feed-Reader Content-Updates erhalten können. Diese Feeds können Sie auf dem Laufenden halten über die neuen Funktionen und Erweiterungen, die in NetApp Produkten und Services eingeführt wurden.
+
+Rufen Sie die Seite „Was ist neu?“ für das Produkt oder den Service auf, das Sie interessieren. Hier ist ein Beispiel für das https://docs.netapp.com/us-en/cloud-tiering/reference_new.html["Cloud-Tiering-Service"^]:
+
+image:rss.gif[""]
+
+Kopieren Sie je nach RSS-Feed-Leser die Seite-URL oder klicken Sie auf *RSS-Abonnieren* und kopieren Sie die Feed-URL. Suchen Sie in Ihrem Reader nach der URL, und starten Sie Folgendes. Sie sollten immer dann Aktualisierungen in Ihren Feeds erhalten, wenn die Seiten aktualisiert werden.

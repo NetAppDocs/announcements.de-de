@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: request-doc-changes.html 
+keywords: announcements, github issues, request doc changes, request changes 
+summary: Wenn Sie Änderungen an den Dokumenten anfordern möchten und den Quellinhalt lieber nicht direkt bearbeiten möchten, können Sie nun Feedback geben, indem Sie auf Änderungen im Dokument anfordern klicken. 
+last_modified: 19-Feb-2019 
+---
+= Änderungen am Dokument anfordern
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Wenn Sie Änderungen an den Dokumenten anfordern möchten und den Quellinhalt lieber nicht direkt bearbeiten möchten, können Sie nun Feedback geben, indem Sie auf *Dokument-Änderungen anfordern* klicken.
+
+Diese neue Schaltfläche wird oben auf jeder Seite angezeigt:
+
+image:request-doc-changes.png[""]
+
+Wenn Sie auf *doc Changes* klicken, werden Sie aufgefordert, Ihr GitHub-Konto zu erstellen oder sich anzumelden (es ist kostenlos und einfach, ein Konto zu erstellen).
+
+Nach der Anmeldung wird ein Formular zum Erstellen eines neuen GitHub-Problems angezeigt. Das Textfeld ist mit dem Titel und der URL der Seite vorausgefüllt. Löschen Sie diese Informationen nicht – es hilft uns, die Seite zu identifizieren, auf der Sie das Problem gefunden haben.
+
+image:github-issue.png[""]
+
+Geben Sie im Textfeld Details ein, und klicken Sie dann auf *Neues Problem einsenden*, um ein Problem für Ihre Anfrage zu erstellen.
+
+Wir werden Ihr Feedback überprüfen und nehmen es von dort.

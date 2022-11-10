@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: office365.html 
+keywords: announcements, documentation, office 365, backup, saas backup for office 365 
+summary: 'Außerdem haben wir die Dokumentation für einen neuen NetApp Service eingefügt. Die Dokumentation für NetApp SaaS Backup für Office 365 ist ab sofort verfügbar unter https://docs.netapp.com[].' 
+last_modified: 18-May-2018 
+---
+= Docs für NetApp SaaS Backup für Office 365
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Außerdem haben wir die Dokumentation für einen neuen NetApp Service eingefügt. Die Dokumentation für NetApp SaaS Backup für Office 365 ist ab sofort verfügbar unter https://docs.netapp.com["docs.netapp.com"^].
+
+NetApp SaaS Backup ist ein sicheres, webbasiertes SaaS-Angebot (Software-as-a-Service), das Backups Ihrer Microsoft Office 365 Daten auf Amazon S3 Storage, Microsoft Azure Blob Storage oder StorageGRID Webscale Objekt-Storage sichert.
+
+Wechseln Sie zum https://docs.netapp.com/us-en/saasbackupO365/["NetApp SaaS Backup für Office 365 – Dokumentation"^] Informieren Sie sich, wie Sie beginnen.

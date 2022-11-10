@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: astra-trident.html 
+keywords: astra, trident, netapp, announcements, documentation 
+summary: NetApp kündigt die Verfügbarkeit der Produktdokumentation für Astra Trident an. 
+last_modified: 16-August-2021 
+---
+= Dokumentation für Astra Trident
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp kündigt die Verfügbarkeit der Produktdokumentation für Astra Trident an https://www.netapp.com/support-and-training/documentation/["docs.netapp.com"].
+
+Astra Trident ist ein CSI-konformer dynamischer Storage-Orchestrator (Container Storage Interface), der die Nutzung und das Management von Storage-Ressourcen auf allen gängigen NetApp Storage-Plattformen ermöglicht.
+
+https://docs.netapp.com/us-en/trident/index.html["Astra Trident-Dokumentation"] Das Angebot umfasst Themen für einen schnellen Einstieg in Astra Trident, einschließlich an https://docs.netapp.com/us-en/trident/trident-concepts/intro.html["Einführung in Astra Trident"] Und A https://docs.netapp.com/us-en/trident/trident-get-started/kubernetes-deploy.html["Implementierungsübersicht"], Sowie Informationen zum Upgrade von Astra Trident und mehr in einem leicht zu navigierten Format .
+
+Diese Dokumentation erweitert die Content-Unterstützung für die Astra Produktfamilie, einschließlich https://docs.netapp.com/us-en/astra/index.html["Astra Control Service"], https://docs.netapp.com/us-en/astra-automation/["Astra Control Automation"], und https://docs.netapp.com/us-en/astra-control-center/index.html["Astra Control Center"].
+
+image:astra-trident.png["Ein Screenshot mit der Astra Trident Dokumentationswebsite auf docs.netapp.com."]
+
+
+
+== Möchten Sie dazu beitragen?
+
+NetApp schätzt das Feedback zu den Inhalten und ermutigt Benutzer, die auf jeder Seite der Produktdokumentation verfügbare Funktion „Änderungen an der Dokumentation anfordern“ nutzen zu können. Die Dokumentationsplattform bietet zudem eine eingebettete Content-Contribution-Funktion für GitHub-Benutzer.
+
+Schauen Sie sich diese Dokumentation an und tragen Sie dazu bei. Sie können Bearbeiten, eine Änderung anfordern oder sogar Feedback senden. Gehen Sie zu https://docs.netapp.com/us-en/trident/index.html["NetApp Astra Trident – Dokumentation"^] Und beginnen.

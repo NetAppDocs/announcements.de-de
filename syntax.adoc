@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: syntax.html 
+keywords: announcements, syntax highlighting 
+summary: Durch das Hinzufügen von Hervorhebungen können Sie die Syntax für die beliebtesten Sprachen einfacher anzeigen. 
+last_modified: 03-Dec-2018 
+---
+= Syntax-Hervorhebung
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Durch das Hinzufügen von Hervorhebungen können Sie die Syntax für die beliebtesten Sprachen einfacher anzeigen.
+
+Die folgende Syntax beispielsweise für den Bezug eines Benutzer-Tokens von NetApp Cloud Central:
+
+[source, http]
+----
+POST https://netapp-cloud-account.auth0.com/oauth/token
+Header: Content-Type: application/json
+Body:
+{
+              "username": "<user_email>",
+              "scope": "profile",
+              "audience": "https://api.cloud.netapp.com",
+              "client_id": "UaVhOIXMWQs5i1WdDxauXe5Mqkb34NJQ",
+              "grant_type": "password",
+              "password": "<user_password>"
+}
+----
+Wie Sie sehen, haben wir auch eine Schaltfläche Kopieren hinzugefügt, um Ihnen das Kopieren der Syntax in die Zwischenablage zu erleichtern.
+
+Hier ist ein weiteres Beispiel, das die JSON-Ausgabe zeigt:
+
+[source, json]
+----
+[
+    {
+        "header": {
+            "requestId": "init",
+            "clientId": "init",
+            "agentId": "init"
+        },
+        "payload": {
+            "init": {}
+        },
+        "id": "5801"
+    }
+]
+----
+Wir hoffen, dass Sie diese Erweiterung hilfreich finden!

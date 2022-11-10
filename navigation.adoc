@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: navigation.html 
+keywords: announcements, navigation, on this page 
+summary: Die Navigation auf Seitenebene ist jetzt auf jeder Seite enthalten, die mehrere Überschriften enthält. 
+last_modified: 26-Nov-2018 
+---
+= Navigation auf Seitenebene
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Die Navigation auf Seitenebene ist jetzt auf jeder Seite enthalten, die mehrere Abschnitte enthält.
+
+Diese Verbesserung macht es Ihnen leicht, zu sehen, wo Sie sich befinden, während Sie scrollen, und zu einem bestimmten Abschnitt auf der Seite zu springen.
+
+image:navigation.gif[""]

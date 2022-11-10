@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: default-branch-rename.html 
+keywords: announcements, branches, github, main, master 
+summary: Für alle technischen Dokumentations-Repositorys von GitHub haben wir den Standardzweig von Master in „Main“ umbenannt. Diese Änderung ist Teil unserer laufenden Bemühungen, nicht-inklusive Sprache in unserer technischen Dokumentation zu entfernen. 
+last_modified: 05-Mar-2021 
+---
+= Standardzweig umbenannt in „Hauptzweig“
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Für alle technischen Dokumentationsdatenspeicher von NetApp in haben wir den Standardzweig von Master in „Main“ umbenannt https://github.com/NetAppDocs/["GitHub"^]. Diese Änderung ist Teil unserer laufenden Bemühungen, nicht-inklusive Sprache in unserer technischen Dokumentation zu entfernen.
+
+image:default-branch-rename.png[""]

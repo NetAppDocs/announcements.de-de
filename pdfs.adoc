@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: pdfs.html 
+keywords: pdfs, announcement, download pdf, download a pdf 
+summary: Wir haben Ihr Feedback gehört und haben die Möglichkeit hinzugefügt, PDFs direkt aus unseren HTML-Dokumenten herunterzuladen. Auf diese Weise können Sie unsere Inhalte auch unterwegs problemlos aufnehmen. 
+last_modified: 28-Apr-2020 
+---
+= Laden Sie eine PDF herunter
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Wir haben Ihr Feedback gehört und haben die Möglichkeit hinzugefügt, PDFs direkt aus unseren HTML-Dokumenten herunterzuladen. Auf diese Weise können Sie unsere Inhalte auch unterwegs problemlos aufnehmen.
+
+Sie können eine PDF auf verschiedene Weise herunterladen.
+
+Der erste Weg ist, ein PDF der Seite herunterzuladen, die Sie gerade anzeigen.
+
+image:download-pdf-topic.gif["Ein Screenshot der PDF-Download-Option dieses Themas, der oben auf einer Seite angezeigt wird."]
+
+Über dem Inhaltsverzeichnis auf der linken Seite stehen weitere Optionen zur Verfügung. Klicken Sie auf *Download PDF* und Sie sehen Optionen, um eine PDF-Datei der gesamten doc-Site, den gesamten Abschnitt (wenn der Abschnitt mehrere Seiten hat) oder nur die Seite, die Sie sehen.
+
+image:download-pdf-toc.gif["Ein Screenshot der Option „PDF herunterladen“, die über dem Inhaltsverzeichnis angezeigt wird."]
+
+Wir arbeiten noch an dieser Funktionalität. Daher betrachten wir „PDF herunterladen“ als BETA-Funktion. Es gibt einige bekannte Probleme, wie Links innerhalb der PDF, die zurück zu HTML-Seiten führen.
+
+Haben Sie die Datumsmeldung am Ende der PDF-Titelseite bemerkt? Wir haben sie dort veröffentlicht, weil wir unsere Inhalte ständig aktualisieren und verbessern, deshalb sollten Sie diese PDFs für kurze Intervalle verwenden. Zum Beispiel sind sie hilfreich, wenn man einen Flug macht oder wenn man an einen sicheren Ort geht, wo das Internet nicht verfügbar ist. Sie sollten sich nicht auf das gleiche PDF Monate später beziehen - es gibt eine sehr gute Chance, dass es veraltet sein wird. Denken Sie daran, die neuesten Inhalte herunterzuladen.

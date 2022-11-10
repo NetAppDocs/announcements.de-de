@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: cloud-volumes-ontap.html 
+keywords: announcements, documentation, cloud volumes ontap, ontap cloud, cloud ontap 
+summary: 'Die Versionshinweise für Cloud Volumes ONTAP sind ab sofort auf erhältlich https://docs.netapp.com[].' 
+last_modified: 04-Jun-2018 
+---
+= Dokumente für Cloud Volumes ONTAP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Die Versionshinweise für Cloud Volumes ONTAP sind ab sofort auf erhältlich https://docs.netapp.com["docs.netapp.com"^].
+
+Cloud Volumes ONTAP kombiniert die Datenkontrolle mit Storage-Funktionen der Enterprise-Klasse für verschiedenste Anwendungsfälle, einschließlich Dateifreigaben und Storage auf Blockebene zur Unterstützung von NAS- und SAN-Protokollen (NFS, SMB und iSCSI), Disaster Recovery (DR), Backup und Archivierung. DevOps, Datenbanken (SQL, Oracle, NoSQL) oder andere Enterprise-Workloads.
+
+Wechseln Sie zum https://docs.netapp.com/us-en/cloud-volumes-ontap/["Cloud Volumes ONTAP-Dokumentation"^] Lesen Sie die Versionshinweise. Wenn Sie Dokumente benötigen, die die Bereitstellung und Verwaltung von Cloud Volumes ONTAP erklären, dann sollten Sie sich beziehen https://docs.netapp.com/us-en/occm/["Dokumentation zu Cloud Manager"^].

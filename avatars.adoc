@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: avatars.html 
+keywords: announcements, avatars, github, contributors 
+summary: Auf jeder Seite der Dokumentation befinden sich jetzt die GitHub-Avatare von Personen, die zu dieser Seite beigetragen haben. Diese Änderung unterstützt unser Ziel, NetApp Docs Community-gestützt zu machen. 
+last_modified: 19-Feb-2019 
+---
+= GitHub Avatare für Content-Autoren
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Auf jeder Seite der Dokumentation befinden sich jetzt die GitHub-Avatare von Personen, die zu dieser Seite beigetragen haben. Diese Änderung unterstützt unser Ziel, NetApp Docs Community-gestützt zu machen.
+
+Du siehst den GitHub Avatar für alle, die eine Änderung an den Quellinhalten vorgenommen haben, indem du eine Pull-Anfrage erstellt hast. Der Mitwirkende kann ein Kunde, NetApp Partner oder Mitarbeiter sein. Hier ein Beispiel:
+
+image:avatars.gif[""]
+
+Ob Sie ein Experte oder ein Anfänger sind, geben Sie Änderungen an den Inhalten und Sie erhalten eine Berühmtheit für Ihren Beitrag.
+
+Beachten Sie, dass die Avatare klein sind, zu denen Sie nicht jedes Mal, wenn Sie sich die Docs Pass:[&#128521;]
